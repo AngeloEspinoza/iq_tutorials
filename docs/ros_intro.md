@@ -203,7 +203,7 @@ In the following tutorials we will be accessing the data on these topics in our 
 ```
 rostopic list -v /mavros/global_position/local
 ```
-we see that the topic is publisng the message in the form of `nav_msgs/Odometry`
+we see that the topic is publishing the message in the form of `nav_msgs/Odometry`
 
 to see the structure of the message you can run the following 
 ```
